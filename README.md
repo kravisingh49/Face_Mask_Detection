@@ -50,14 +50,3 @@ Example:
 model = load_model('face_mask.h5')
 predict_and_display('path_to_image.jpg')
 ```
-
-## Results
-The trained model achieves high accuracy in distinguishing between images with and without face masks. Below is an example of the model's prediction:
-
-![Example Prediction](example_prediction.png)
-
-## Contributing
-Contributions are welcome! Please fork this repository and submit a pull request for any changes or improvements.
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
