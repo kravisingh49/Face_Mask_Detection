@@ -10,10 +10,8 @@ This project is a deep learning-based face mask detection system, designed to pr
 - [Model Architecture](#model-architecture)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
 
+  
 ## Dataset
 The dataset used for this project consists of images with two classes: 
 - **With Mask**
